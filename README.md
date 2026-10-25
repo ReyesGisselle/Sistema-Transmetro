@@ -8,6 +8,9 @@ PHP, MySQL, Bootstrap y JavaScript.
 ## Demostración web
 (https://transmetro-info.infinityfreeapp.com/sistema/login.php)
 
-Rol	Usuario (correo)	Contraseña
-Administrador	admin@transmetro.demo	admin123
-Usuario normal	usuario@transmetro.demo	admin123
+USUARIOS
+Administrador	
+admin@transmetro.demo   PASSWORD:	admin123
+
+Usuario normal	
+usuario@transmetro.demo	 PASSWORD:  admin123
