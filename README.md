@@ -6,7 +6,7 @@ Proyecto académico de gestión de líneas, estaciones, buses, recorridos, acces
 PHP, MySQL, Bootstrap y JavaScript.
 
 ## Demostración web
-https://transmetro-info.infinityfreeapp.com/
+(https://transmetro-info.infinityfreeapp.com/sistema/login.php)
 
 ## Configuración local
 1. Importa la estructura SQL de la base de datos (se entrega por separado; este ZIP no incluye un respaldo SQL).
