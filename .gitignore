@@ -1,0 +1,5 @@
+sistema/conexion.php
+*.lock
+.env
+.env.*
+!*.example
